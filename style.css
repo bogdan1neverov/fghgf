@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+.bro{
+background-color:#33CCCC	;
+border-radius: 3px;
+text-align: center;
+}
+.brou{
+
+}
+.mm{
+border: #33CCCC;
+}
+.link-header{
+text-decoration: none;
+background-color: ;
+color: black;
+border: 1px solid black;
+border-radius: 3px;
+}
+.link-header:hover{
+background-color:#33CCCC ;
+}
+.link-text{
+text-decoration: none;
+color: blue;
+border: 1px solid black;
+}
+.link-text:hover{
+background-color: red;
+}
